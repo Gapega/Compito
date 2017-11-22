@@ -1,3 +1,3 @@
-int i=0;
+int i=0;//counter
 
-for(i,i<10;i++){cout<<i;}
+for(i,i<10;i++){cout<<i;} //ciclo
